@@ -30,4 +30,4 @@ This project analyzes 90 days of restaurant transactional data (5,343 orders; $1
 
 ## 📂 Files Included
 - SQL Queries (`restaurant_sales_analysis.sql`)
-- Full Business Report (`restaurant_sales_report.pdf`)
+- Full Business Report (`restaurant_sales_analysis.pdf`)
